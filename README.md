@@ -1,2 +1,2 @@
 # DrawingApp
-A Javascript website to draw!
+A Javascript website that lets people draw!
